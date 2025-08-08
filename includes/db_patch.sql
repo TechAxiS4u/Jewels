@@ -1,0 +1,1 @@
+-- SQL patch for roles-store link and QR column

@@ -1,0 +1,1 @@
+-- SQL to add store_role_map table and update warehouse mapping
